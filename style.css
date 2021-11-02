@@ -1,7 +1,7 @@
-{
+*{
     padding:0;
     margin:0;
-    vertial-align:baseline
+    vertical-align:baseline;
     list-style:none;
     border:0;
     font-family: 'Open Sans', sans-serif;
@@ -10,12 +10,10 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
-<div{
-    border: 1px solid;
-}
 .pagina{
     width: 600px;
-    height: 800px;
+    height: 600px;
+    border: 1px solid;
 }
 
 .margin-10{
@@ -55,7 +53,7 @@ h1{
     background-color: aquamarine;
 }
 
-.menu-direita div p,{
+.menu-direita div p{
 padding: 5px;
 }
 
